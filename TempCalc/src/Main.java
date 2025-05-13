@@ -8,9 +8,6 @@ public class Main extends Application {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//double celsius = Double.parseDouble(JOptionPane.showInputDialog("Gebe den Celsius Wert ein"));
-		
-		//System.out.println(celsius+ " Grad sind "+(celsius*1.8+32)+" Fahrenheit");
 		launch(args);
 	}
 
